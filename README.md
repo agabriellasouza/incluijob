@@ -30,6 +30,6 @@ Rafael Martins
 Thierry Guedes UI/UX
 Kelvin Gonçalves - Desenvolvedor 
 Jarbas Jr
-Matheus M.tato.matheusmrn@gmail.com
+Matheus M
 
 Agradecemos a todos que fazem parte deste projeto, pois juntos estamos construindo um caminho mais inclusivo e igualitário no mundo profissional.
